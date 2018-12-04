@@ -194,6 +194,7 @@
             this.pictureBox25.TabStop = false;
             this.pictureBox25.Tag = "gameOver";
             this.pictureBox25.Visible = false;
+            this.pictureBox25.Click += new System.EventHandler(this.pictureBox25_Click);
             // 
             // pictureBox24
             // 

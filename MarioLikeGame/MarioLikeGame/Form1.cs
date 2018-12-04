@@ -380,6 +380,11 @@ namespace MarioLikeGame
         {
 
         }
+
+        private void pictureBox25_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }
